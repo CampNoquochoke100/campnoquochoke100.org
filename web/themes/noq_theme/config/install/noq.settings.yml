@@ -1,0 +1,4 @@
+sticky_navbar: true
+show_cta: true
+cta_text: "Sample CTA text."
+cta_btn_text: "Learn more"
